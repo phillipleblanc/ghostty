@@ -1,0 +1,9 @@
+theme = iTerm2 Default
+#theme = iTerm2 Dark Background
+#theme = Github Dark
+#background = 131313
+#background = 232323
+background = 000000
+background-opacity = 0.8
+background-blur-radius = 10
+font-size = 12
